@@ -2,7 +2,7 @@
 
 
 
-![logo](https://github.com/mumal885/snakes/blob/main/snake.png)
+![logo](https://github.com/SumeetPatil7/snake-/blob/main/snake%20%2B/snake.png)
 # snakes
 This snakes is coded in html, css,js.
 
